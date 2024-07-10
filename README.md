@@ -164,4 +164,4 @@ window.mainloop()
 ```
 
 ### Output:
-![](guessgame\output.png)
+![](output.png)
